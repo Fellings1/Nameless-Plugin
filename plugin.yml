@@ -1,6 +1,6 @@
 name: NamelessMC
 main: com.namelessmc.namelessplugin.NamelessPlugin
-version: 0.1
+version: 1.0 (Beta)
 commands:
   register:
     description: Register for an account on the website
